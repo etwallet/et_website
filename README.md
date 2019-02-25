@@ -1,4 +1,4 @@
-![etlogo](https://github.com/eostoken/ET-exchange/blob/master/picture/lo1.png)
+![etlogo](https://github.com/eostoken/eostoken.im/blob/master/images/logo_108.png)
 ET开放式交易平台官网代码<br>
 
 [ET开放式去中心化交易平台白皮书](https://github.com/eostoken/ET-exchange/blob/master/WhitePaper.md)<br>
